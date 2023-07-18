@@ -6382,7 +6382,7 @@ GameObject:
   - component: {fileID: 812121598}
   - component: {fileID: 812121597}
   - component: {fileID: 812121596}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: BulletBounds
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6413,8 +6413,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 26.76, y: 15.92, z: 41.15}
-  m_Center: {x: 4.2, y: 5.61, z: 0}
+  m_Size: {x: 28.501738, y: 15.92, z: 32.29432}
+  m_Center: {x: 3.3291311, y: 5.6099997, z: 4.427841}
 --- !u!4 &812121598
 Transform:
   m_ObjectHideFlags: 0

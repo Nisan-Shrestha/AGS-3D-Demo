@@ -24,6 +24,7 @@ public class bounder : MonoBehaviour
         {
             TS.missCount += 1;
             TS.UpdateScores();
+            GameObject.Destroy(other.gameObject);
         }
     }
 }

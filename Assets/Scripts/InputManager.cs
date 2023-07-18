@@ -14,6 +14,7 @@ public class InputManager : MonoBehaviour
     // Start is called before the first frame update
     void Awake()
     {
+        Cursor.lockState = CursorLockMode.Locked;
         motor = GetComponent<PlayerMotor>();
         look = GetComponent<PlayerLook>();
         shooter= GetComponent<PlayerShoot>();
