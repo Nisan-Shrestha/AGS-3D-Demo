@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>7/14/2023 - 1:50:55 AM</Generatedon>
+    <Parser>MultiReportParser (15x OpenCoverParser)</Parser>
+    <Assemblies>3</Assemblies>
+    <Classes>18</Classes>
+    <Files>18</Files>
+    <Coveredlines>214</Coveredlines>
+    <Uncoveredlines>579</Uncoveredlines>
+    <Coverablelines>793</Coverablelines>
+    <Totallines>2130</Totallines>
+    <Linecoverage>26.9</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+    <Coveredmethods>46</Coveredmethods>
+    <Totalmethods>121</Totalmethods>
+    <Methodcoverage>38</Methodcoverage>
+  </Summary>
+  <Coverage>
+    <Assembly name="BaseAssemDef" classes="13" coverage="60" coveredlines="125" coverablelines="208" totallines="480" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="32" totalmethods="43" methodcoverage="74.4">
+      <Class name="bounder" coverage="36.3" coveredlines="4" coverablelines="11" totallines="29" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="2" totalmethods="3" methodcoverage="66.6" />
+      <Class name="InputManager" coverage="100" coveredlines="21" coverablelines="21" totallines="50" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="5" totalmethods="5" methodcoverage="100" />
+      <Class name="Interactable" coverage="0" coveredlines="0" coverablelines="5" totallines="20" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+      <Class name="PlayerInteract" coverage="56.5" coveredlines="13" coverablelines="23" totallines="43" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="3" totalmethods="3" methodcoverage="100" />
+      <Class name="PlayerLook" coverage="100" coveredlines="15" coverablelines="15" totallines="36" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="4" totalmethods="4" methodcoverage="100" />
+      <Class name="PlayerMotor" coverage="100" coveredlines="31" coverablelines="31" totallines="55" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="5" totalmethods="5" methodcoverage="100" />
+      <Class name="PlayerShoot" coverage="100" coveredlines="12" coverablelines="12" totallines="36" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="5" totalmethods="5" methodcoverage="100" />
+      <Class name="PlayerUI" coverage="100" coveredlines="5" coverablelines="5" totallines="21" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="2" totalmethods="2" methodcoverage="100" />
+      <Class name="Starter" coverage="25.9" coveredlines="7" coverablelines="27" totallines="67" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="2" totalmethods="3" methodcoverage="66.6" />
+      <Class name="targets" coverage="0" coveredlines="0" coverablelines="15" totallines="33" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="3" methodcoverage="0" />
+      <Class name="TargetSpawner" coverage="47.2" coveredlines="17" coverablelines="36" totallines="72" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="4" totalmethods="5" methodcoverage="80" />
+      <Class name="TestClass" coverage="0" coveredlines="0" coverablelines="4" totallines="18" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="2" methodcoverage="0" />
+      <Class name="tests" coverage="0" coveredlines="0" coverablelines="3" totallines="0" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="1" methodcoverage="0" />
+    </Assembly>
+    <Assembly name="PlayTest" classes="1" coverage="100" coveredlines="58" coverablelines="58" totallines="90" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="3" totalmethods="3" methodcoverage="100">
+      <Class name="MoveTest" coverage="100" coveredlines="58" coverablelines="58" totallines="90" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="3" totalmethods="3" methodcoverage="100" />
+    </Assembly>
+    <Assembly name="TMproAssem" classes="4" coverage="5.8" coveredlines="31" coverablelines="527" totallines="1560" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="11" totalmethods="75" methodcoverage="14.6">
+      <Class name="PlayerInput" coverage="16.4" coveredlines="31" coverablelines="189" totallines="973" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="11" totalmethods="47" methodcoverage="23.4" />
+      <Class name="UnityStandardAssets.ImageEffects.ContrastStretch" coverage="0" coveredlines="0" coverablelines="95" totallines="197" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="10" methodcoverage="0" />
+      <Class name="UnityStandardAssets.ImageEffects.GlobalFog" coverage="0" coveredlines="0" coverablelines="93" totallines="147" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="4" methodcoverage="0" />
+      <Class name="UnityStandardAssets.ImageEffects.PostEffectsBase" coverage="0" coveredlines="0" coverablelines="150" totallines="243" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="14" methodcoverage="0" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>
